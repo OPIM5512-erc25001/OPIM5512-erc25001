@@ -1,5 +1,6 @@
 
 # 👋 Hi, I'm Farhad Farzam  
+![Profile Views](https://komarev.com/ghpvc/?username=OPIM5512-erc25001&label=Profile%20Views&color=0e75b6&style=flat)
 ### MS Business Analytics @ UConn | Data Science • Machine Learning • Predictive Modeling
 
 I’m a data‑driven problem solver with a background in **project management** and **HR operations**, now transitioning into **analytics and machine learning**.  
